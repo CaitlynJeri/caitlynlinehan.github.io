@@ -8,8 +8,6 @@ I teach GEG-8 at Riverside City College and study walkability and access to gree
  
 ![Short description of the map for screen readers](images/displacement.avif)
  
-*Interactive version, live as of [Month Year]: [paste public link]*
-*(Delete this line if your map is not a web app.)*
  
 **Question:** How much did the surface of Hawaii Island move vertically in the twelve days spanning the start of the 2018 Kilauea eruption, and where was that movement concentrated?
  
@@ -25,7 +23,7 @@ I teach GEG-8 at Riverside City College and study walkability and access to gree
  
 ## Ozone Exposure Across New York Counties, and What the Interpolation Method Changes
  
-![Short description of the map](images/yourotherfile.png)
+![Short description of the map](images/Linehan_Lab_C_Final.png)
  
 **Question:** Where was ozone exposure highest across New York State counties in 2010, how much does the answer depend on the interpolation method used to get there, and does exposure track the racial composition of a county?
  
