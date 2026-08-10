@@ -4,7 +4,7 @@ I teach GEG-8 at Riverside City College and study walkability and access to gree
  
 ---
  
-## [Map 1 title: what the map shows, not "Lab 3"]
+## How Far the Ground Dropped During the 2018 Kilauea Eruption
  
 ![Short description of the map for screen readers](images/yourfile.png)
  
