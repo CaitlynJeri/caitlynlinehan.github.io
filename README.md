@@ -23,7 +23,7 @@ I teach GEG-8 at Riverside City College and study walkability and access to gree
  
 ## Ozone Exposure Across New York Counties, and What the Interpolation Method Changes
  
-![Short description of the map](images/Linehan_Lab_C_Final.png)
+![Short description of the map](images/Linehan_Lab_C_Final.avif)
  
 **Question:** Where was ozone exposure highest across New York State counties in 2010, how much does the answer depend on the interpolation method used to get there, and does exposure track the racial composition of a county?
  
