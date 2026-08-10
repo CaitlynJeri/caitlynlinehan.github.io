@@ -1,4 +1,4 @@
-Home](index.html) | [About](about.html) | [Resume](resume.html) |
+[Home](index.html) | [About](about.html) | [Resume](resume.html) |
 [Kilauea](kilauea.html) | [Ozone](ozone.html) |
 [zealand](zealand.html)
 
