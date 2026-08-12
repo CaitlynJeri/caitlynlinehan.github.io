@@ -5,9 +5,9 @@
 ---
 
  
-# [Your Name]
+# Caitlyn J. Linehan
  
-[One sentence: what you do and what you are working toward.]
+PhD and Yay
  
 ---
  
@@ -19,7 +19,7 @@
 ### [Ozone Interpolation](ozone.html)
 [One sentence on what this map shows and what you used.]
  
-### [Third project](zealand.html)
+### [Habitat](habitat.html)
 [One sentence.]
 
 ---
